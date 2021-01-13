@@ -84,7 +84,7 @@
     "todomvc-app-css": "2.1.0",
     "typescript": "^3.8.3",
     "vue": "2.5.22",
-    "vue-loader": "15.2.1",
+    "vue-loader": "15.9.6",
     "vue-server-renderer": "2.5.22",
     "vue-template-compiler": "2.5.22",
     "vuepress": "^1.7.1",

@@ -88,7 +88,7 @@
     "vue-server-renderer": "2.5.22",
     "vue-template-compiler": "2.5.22",
     "vuepress": "^1.7.1",
-    "webpack": "^4.43.0",
+    "webpack": "^5.0.0",
     "webpack-dev-middleware": "^3.7.2",
     "webpack-hot-middleware": "^2.25.0"
   }
